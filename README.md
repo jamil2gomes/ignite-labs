@@ -19,3 +19,10 @@ Projeto desenvolvido durante a Ignite Lab da RocketSeat
  <li> Estilização utilizando o tailwind</li>
 </ul>
 
+## Aula 3 
+
+<ul>
+  <li>Uso da lib vime para utilizar o video do youtube;</li>
+ <li>Consumo da api de Lesson do graphcms;</li>
+</ul>
+
