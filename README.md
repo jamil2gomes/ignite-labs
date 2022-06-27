@@ -34,3 +34,12 @@ Projeto desenvolvido durante a Ignite Lab da RocketSeat
  <li>condicionais css</li>
 </ul>
 
+## Tela Inicial
+
+![telainicial](https://user-images.githubusercontent.com/24705347/175950594-db5458e8-2c59-4b24-99c7-df9a077640a5.png)
+
+## Tela de eventos
+![telaeventos](https://user-images.githubusercontent.com/24705347/175950743-82da9a93-3c73-4b99-a9ca-9ee212c8a0b0.png)
+
+
+
